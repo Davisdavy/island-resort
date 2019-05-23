@@ -18,7 +18,28 @@ h1{
 span{
     color: azure;
     position: absolute;
-    top: 20%;
+    top: 18%;
     left: 45%;
     font-size: 20px;
+}
+ul{
+    list-style: none;
+    font-size: 20px;
+    overflow: hidden;
+    padding: 0;
+    margin: 0;
+}
+li{
+  
+   float: right;
+}
+a{
+    color: rgba(85, 84, 84, 0.829);
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    padding-right: 12px;
+}
+a:hover{
+    color: rgb(197, 224, 236);
 }
