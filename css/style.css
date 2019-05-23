@@ -30,8 +30,7 @@ ul{
     margin: 0;
 }
 li{
-  
-   float: right;
+   float: left;
 }
 a{
     color: rgba(85, 84, 84, 0.829);
