@@ -42,3 +42,11 @@ a{
 a:hover{
     color: rgb(197, 224, 236);
 }
+img{
+    width: 38%;
+}
+
+}
+img a{
+    color: rgb(128, 122, 122);
+}
